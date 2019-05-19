@@ -1,5 +1,5 @@
 # Blocky
-![Alt Text](https://github.com/GrandpaBear/Blocky/tree/master/img/Blocky.gif)
+![Alt Text](https://github.com/GrandpaBear/Blocky/blob/master/img/Blocky.gif)
 
 ## Overview
 Welcome to Blocky, a platform game where you are a black block.
