@@ -1,0 +1,16 @@
+<TextureAtlas imagePath="OrangeMushroom.png">
+    <SubTexture name="Standing.png" x="6" y="0" w="66" h="74"/>
+
+01.png.png 6 -71,
+02.png.png 72 -71,
+03.png.png 156 -71,
+14.png.png 6 3,
+15.png.png 73 3,
+16.png.png 138 3,
+17.png.png 6 141,
+18.png.png 8 141,
+19.png.png 75 141,
+20.png.png 141 141.
+
+
+</TextureAtlas>
